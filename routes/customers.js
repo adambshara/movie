@@ -1,5 +1,6 @@
 // const Joi = require("joi");
 // const mongoose = require("mongoose");
+
 const { Customer, validate } = require("../models/customer");
 const express = require("express");
 const router = express.Router();
